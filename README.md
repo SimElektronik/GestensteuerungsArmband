@@ -1,0 +1,2 @@
+# GestensteuerungsArmband
+Gestensteuerung eines Smarthomes mit hilfe eines beschleunigungsmessenden Armbandes
